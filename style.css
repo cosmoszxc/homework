@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body
+{
+    background: #FFDC73;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em;
+}
+.align{
+    font-family: 'Raleway', sans-serif;
+
+}
